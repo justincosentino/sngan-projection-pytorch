@@ -1,0 +1,1 @@
+{"output_dir": "results", "force": false, "dataset": "svhn", "epochs": 300, "batch_size": 128, "lr": 0.1, "alpha": 0.5, "target_coverage": 0.8}
